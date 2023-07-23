@@ -9,11 +9,3 @@ The two robots are approximately the same with one of them using a color sensor.
 ## Language & Software
 The language used is the Lego EV3 Mindstorms https://education.lego.com/en-us/downloads/retiredproducts/mindstorms-ev3-lab/software combined with the Pixy2 camera software "PixyMon v2" which uses the general firmware https://pixycam.com/downloads-pixy2/
 
-## Code
-This code is only for educational purposes
-(Ev3 code link)
-
-
-## Example 
-(Youtube video link)
-
